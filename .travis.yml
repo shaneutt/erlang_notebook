@@ -1,0 +1,6 @@
+sudo:     false
+language: erlang
+install:  "true" # don't let travis run get-deps
+script:   "./rebar3 do update, eunit"
+otp_release:
+    - 18.2

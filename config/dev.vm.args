@@ -1,0 +1,6 @@
+-name ${NODE_NAME}
+
+-setcookie erlang_notebook_cookie
+
++K true
++A30

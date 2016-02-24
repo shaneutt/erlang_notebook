@@ -7,10 +7,7 @@ _*
 .eunit
 .erlang.cookie
 .rebar3
-erlang_notebook.log*
-erlang_notebook_tests*
 erl_crash.dump
-priv/*.so
 rel/example_project
 .concrete/DEV_MODE
 .rebar

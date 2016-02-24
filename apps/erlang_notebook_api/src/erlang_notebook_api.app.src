@@ -1,0 +1,20 @@
+{application, 'erlang_notebook_api',
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, {'erlang_notebook_api_app', []}},
+  {applications, [
+   kernel,
+   stdlib,
+   cowboy,
+   jsx,
+   lager
+   %%mcd
+  ]},
+  {env,[]},
+  {modules, []},
+
+  {contributors, []},
+  {licenses, []},
+  {links, []}
+ ]}.
