@@ -25,4 +25,4 @@ init() ->
     erlang:load_nif(SoName, 0).
 
 not_loaded(Line) ->
-    exit({not_loaded, [{module, ?MODULE}, {line, Line}]}).
+    erlang:nif_error({not_loaded, [{module, ?MODULE}, {line, Line}]}).
