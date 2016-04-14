@@ -4,3 +4,7 @@ install:  "true" # don't let travis run get-deps
 script:   "make test"
 otp_release:
     - 18.3
+cache:
+  directories:
+  - _build
+  - .cache/rebar3
