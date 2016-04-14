@@ -3,4 +3,4 @@ language: erlang
 install:  "true" # don't let travis run get-deps
 script:   "make test"
 otp_release:
-    - 18.2
+    - 18.3
