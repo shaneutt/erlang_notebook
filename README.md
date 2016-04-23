@@ -1,4 +1,4 @@
-Erlang Notebook - A notebook for Erlang
+Erlang Notebook
 ===============
 
 [![Build Status](https://travis-ci.org/shaneutt/erlang_notebook.svg?branch=master)](https://travis-ci.org/shaneutt/erlang_notebook.svg?branch=master)
