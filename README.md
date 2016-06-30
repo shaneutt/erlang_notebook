@@ -1,7 +1,7 @@
 Erlang Notebook
 ===============
 
-[![Build Status](https://travis-ci.org/shaneutt/erlang_notebook.svg?branch=master)](https://travis-ci.org/shaneutt/erlang_notebook.svg?branch=master)
+[![Build Status](https://travis-ci.org/shaneutt/erlang_notebook.svg?branch=master)](https://travis-ci.org/shaneutt/erlang_notebook)
 
 Each application in this release is intended to be the template to cover a specific archetype of application.
 
